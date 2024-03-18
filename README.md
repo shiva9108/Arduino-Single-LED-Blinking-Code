@@ -1,10 +1,10 @@
 # Arduino Single LED Blinking
 
-This Arduino project demonstrates the basic functionality of blinking a single LED using the Arduino IDE. The LED blinks on and off in the intervals of three seconds.
+This Arduino project demonstrates the basic functionality of blinking a single LED using the Arduino IDE. The LED blinks on and off in intervals of three seconds.
 
 ## Installation
 
-1. Clone this repository to your local machine using `[git clone https://github.com/your-username/arduino-single-led-blinking.git](https://github.com/shivaganesht/Arduino-Single-LED-Blinking-Code.git)`
+1. Clone this repository to your local machine using `https://github.com/shivaganesht/Arduino-Single-LED-Blinking-Code.git`
 2. Open the LEDBLINK.ino file in the Arduino IDE.
 
 ## Usage
