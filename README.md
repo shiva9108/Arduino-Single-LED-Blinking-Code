@@ -4,7 +4,7 @@ This Arduino project demonstrates the basic functionality of blinking a single L
 
 ## Installation
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/arduino-single-led-blinking.git](https://github.com/shivaganesht/Arduino-Single-LED-Blinking-Code.git`
+1. Clone this repository to your local machine using `[git clone https://github.com/your-username/arduino-single-led-blinking.git](https://github.com/shivaganesht/Arduino-Single-LED-Blinking-Code.git`
 2. Open the LEDBLINK.ino file in the Arduino IDE.
 
 ## Usage
