@@ -9,7 +9,7 @@ This Arduino project demonstrates the basic functionality of blinking a single L
 
 ## Circuit Connections and Reference Diagram
 
-![Single LED Light Blinking](https://github.com/shivaganesht/Arduino-Single-LED-Blinking-Code/assets/69391183/5878c572-b53d-4854-beae-c8eeec182b1c)
+![Single LED Light Blinking Diagram](https://github.com/shivaganesht/Arduino-Single-LED-Blinking-Code/assets/69391183/5878c572-b53d-4854-beae-c8eeec182b1c)
 
 
 ## Usage
