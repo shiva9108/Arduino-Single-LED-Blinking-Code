@@ -10,8 +10,9 @@ This Arduino project demonstrates the basic functionality of blinking a single L
 ## Usage
 
 1. Connect your Arduino board to your computer.
-2. Upload the code to your Arduino board.
-3. The LED connected to the built-in pin on the Arduino board will start blinking at intervals of three seconds.
+2. Select the correct connected Arduino port.
+3. Upload the code to your Arduino board. If you're unsure how to upload code to your Arduino board, please take a look at the [Arduino documentation](https://www.arduino.cc/en/Guide/HomePage)
+4. The LED connected to the built-in pin on the Arduino board will start blinking at intervals of three seconds.
 
 ## Code Overview
 
